@@ -35,7 +35,6 @@ public class FractionNumberOperation implements com.sourceit.hometask.basic.Frac
         fractionNumber.setDividend(var1.getDividend() * var2.getDivisor());
         return fractionNumber;
     }
-
     @Override
     public FractionNumber parseFractionNumber(String var1) {
         com.sourceit.homework.work05.FractionNumber fractionNumber = new com.sourceit.homework.work05.FractionNumber();
