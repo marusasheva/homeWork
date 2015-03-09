@@ -53,8 +53,6 @@ public class Test {
         }
         System.out.println();
         System.out.println();
-       // for (FractionNumber sort : arrFn) {
-           // System.out.print(sort.doubleValue() + " ");
-        //}
+
     }
 }
