@@ -51,8 +51,7 @@ public class Test {
         for (FractionNumber k : array) {
             System.out.print(Objects.toString(k) + " ");
         }
-        System.out.println();
-        System.out.println();
+        System.out.println("\n");
 
     }
 }
